@@ -4,4 +4,6 @@ theme:
   palette:
     scheme: slate  # Enables dark mode
     primary: deep purple
+    accent: blue
+    
 

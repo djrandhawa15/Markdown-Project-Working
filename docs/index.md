@@ -19,9 +19,7 @@ Obsidian is a note-taking application that allows you to organize your notes loc
 
 In the first part of this documentation, we'll get you started with the bascis of Obsidian. Then, we'll explore how to implement the Zettelkasten method using Obsidian, which will serve as a "personal writing assistant" to help you organize notes more efficiently and connect ideas to deepen your understanding of any subject.
 
-### Who this guide is for?
-
-## Who is This Guide For?
+### Who is This Guide For?
 
 | Intended Audience         | Description |
 |---------------------------|-------------|
