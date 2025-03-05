@@ -1,17 +1,36 @@
-# Welcome to MkDocs
+# Obsidian User Guide
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introduction & Overview
 
-## Commands
+Welcome to our comprehensive guide on Obsidian,  a powerful note-taking application. This guide will help you get started with Obsidian and show you how to leverage its features for effective note organization.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### What is Obsidian?
 
-## Project layout
+Obsidian is a note-taking application that allows you to organize your notes locally on your computer. It uses a system of interconnected markdown files to create a powerful knowledge base.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Why use Obsidian?
+
+- Fast and responsive interface
+- Clean, distinction-free writing enviroment
+- Strong community support and plugins
+- Powerful linking capabilities between notes
+
+### What this guide will cover?
+
+In the first part of this documentation, we'll get you started with the bascis of Obsidian. Then, we'll explore how to implement the Zettelkasten method using Obsidian, which will serve as a "personal writing assistant" to help you organize notes more efficiently and connect ideas to deepen your understanding of any subject.
+
+### Who this guide is for?
+
+This guide is for anhyone who wants to learn how to make smart notes and use them effectively:
+- Writers
+- Students
+- Teachers
+- Professors
+- Anyone interested in knowledge management
+
+
+
+
+
+
+
