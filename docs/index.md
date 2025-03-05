@@ -21,12 +21,16 @@ In the first part of this documentation, we'll get you started with the bascis o
 
 ### Who this guide is for?
 
-This guide is for anhyone who wants to learn how to make smart notes and use them effectively:
-- Writers
-- Students
-- Teachers
-- Professors
-- Anyone interested in knowledge management
+## Who is This Guide For?
+
+| Intended Audience         | Description |
+|---------------------------|-------------|
+| **Writers**              | Improve note-taking for research and content creation. |
+| **Students**             | Organize study materials and enhance learning. |
+| **Teachers**             | Structure lesson plans and resources effectively. |
+| **Professors**           | Manage academic research and references. |
+| **Knowledge Enthusiasts** | Anyone interested in better knowledge management. |
+
 
 
 

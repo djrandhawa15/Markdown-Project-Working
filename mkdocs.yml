@@ -1,3 +1,7 @@
-site_name: My site
+site_name: Obsidian Documentation
 theme:
   name: material
+  palette:
+    scheme: slate  # Enables dark mode
+    primary: deep purple
+
