@@ -12,6 +12,8 @@ This documentation provides a comprehensive guide to using Obsidian for note-tak
 - Streamable.com for creating instructional GIFs
 - VS Code for editing Markdown
 - MkDocs for generating the final documentation site
+- Xsplit Broadcaster to record gifs
+- Canva to edit and export gifs
 
 ## Features
 - Comprehensive introduction to Obsidian
