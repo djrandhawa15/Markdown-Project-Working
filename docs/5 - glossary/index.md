@@ -1,7 +1,8 @@
 # Glossary
 
-> [!NOTE]
-> This glossary covers essential Obsidian and Zettelkasten terminology to help you navigate your note-taking journey.
+!!! note "Note"
+    This glossary covers essential Obsidian and Zettelkasten terminology to help you navigate your note-taking journey.
+
 
 ## Core Concepts
 
@@ -33,5 +34,6 @@
 | **Daily Notes** | Journal-style notes organized by date, often used to track daily activities, thoughts, and tasks. |
 | **Hub Notes** | Central notes that connect related concepts and serve as entry points to different areas of your knowledge base. |
 
-> [!TIP]
-> Bookmark this glossary for quick reference as you build your Obsidian workflow. Understanding these terms will help you communicate with the Obsidian community and implement knowledge management best practices.
+!!! tip "Tip"
+    Bookmark this glossary for quick reference as you build your Obsidian workflow. Understanding these terms will help you communicate with the Obsidian community and implement knowledge management best practices.
+
