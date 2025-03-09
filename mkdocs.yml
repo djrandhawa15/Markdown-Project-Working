@@ -1,6 +1,8 @@
 site_name: Obsidian Documentation
 theme:
   name: material
+  favicon: ./asset/favicon.ico
+  logo: ./asset/logo.png
   palette:
     scheme: slate
     primary: deep purple
