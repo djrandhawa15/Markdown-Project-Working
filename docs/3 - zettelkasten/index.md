@@ -1,14 +1,14 @@
 # The Zettelkasten
 
-## Unlocking Your Limitless Mind: How Zettelkasten + Obsidian Can Change the Way You Learn
+## Unlocking Your Limitless Mind
 
 **"I Was Blind, But Now I See."**
 
-Remember the movie *Limitless*? The moment Eddie Morra, the main character, takes NZT-48, his brain unlocks its full potential. He can recollect everything he has ever read, connect information instantaneously, and apply it in real time.
+In the movie *Limitless*? The main character of the movie, takes NZT-48, a mind altering drug that allows his brain unlocks its full potential. He can recollect everything he has ever read, connect information instantaneously, and apply it in real time.
 
 What if... you could train your brain to work like that—without the pill?
 
-The truth is, most people don’t struggle with intelligence. They struggle with organizing and recalling what they already know. That's where **Zettelkasten + Obsidian** come in. It's the real-world equivalent of unlocking your brain’s potential—by structuring your knowledge into a living, breathing system.
+The truth is, most people don’t struggle with intelligence. They struggle with organiztion and recalling information. That's where **Zettelkasten + Obsidian** come in. Using both of these is the real-world equivalent of taking NZT, by structuring your knowledge into a living, breathing system.
 
 ---
 
@@ -22,7 +22,7 @@ Most people take notes like a storage room. They dump information into notebooks
 
 ## Zettelkasten: The 'Brain Web' That Makes You Think Faster
 
-Rather than storing isolated notes, the **Zettelkasten** method strings ideas together, like neurons in a brain. When you write down a concept, you connect it to related ideas, creating an **interconnected web of knowledge**.
+Rather than storing isolated notes, the **Zettelkasten** method strings ideas together, like neurons in a brain.
 
 ### The result?
 
@@ -47,8 +47,6 @@ Obsidian makes this system even more powerful. With **two-way links, graphical v
 🔹 **Thinking 10 times faster**—because ideas will come to you at the right moment.  
 
 🔹 **Effortlessly digesting complex topics**—because knowledge flows naturally.  
-
-This isn’t just note-taking. **This is mental augmentation.**
 
 ---
 
@@ -75,10 +73,10 @@ If you’ve ever wished you could **learn faster, recall better, and connect ide
 You’re watching a series on **realistic drawing**. Instead of dumping everything into a single messy document, you:
 
 1. Take rough notes on key techniques.  
-2. Break them down into **individual atomic annotations** (e.g., shading techniques, perspective, anatomy).  
-3. Link related concepts together (e.g., **"Perspective"** connects to **"Vanishing Points"**, and **"Shading"** connects to **"Light Sources"**).  
+2. Break them down into **individual notes**  
+3. Link related concepts together 
 4. Over time, your **knowledge graph** grows, making each study session **smarter and more efficient**.
 
 ---
 
-The question is: **Will you stay limited, or will you go limitless?**
+The question is: **Will you go limitless?**

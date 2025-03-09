@@ -122,10 +122,7 @@ To export a note:
 !!! success "Ready for the Next Level"
     You now have a solid foundation of Obsidian's essential features and shortcuts!
 
-This section covered the quick features Obsidian offers. As you've seen, Obsidian uses Markdown language and relies heavily on keyboard shortcuts (hotkeys) to streamline your workflow. This design philosophy allows you to focus on writing and idea creation rather than navigating complex menus.
-
-!!! note "Simplicity at its Core"
-    While Obsidian might seem overwhelming with all its technical possibilities, it can be as simple or as complex as you need it to be. At its core, you only need a few hotkeys and the ability to create links between notes to get started.
+This section covered the quick features Obsidian offers. Obsidian uses Markdown language and relies heavily on keyboard shortcuts (hotkeys) to streamline your workflow. 
 
 ???+ abstract "Coming Up Next: The Zettelkasten Method"
     In the next section, we'll introduce the **Zettelkasten Method** - the ultimate approach to learning that is minimal, simplistic, and incredibly powerful. This method will:
