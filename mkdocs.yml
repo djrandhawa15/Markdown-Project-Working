@@ -2,8 +2,33 @@ site_name: Obsidian Documentation
 theme:
   name: material
   palette:
-    scheme: slate  # Enables dark mode
+    scheme: slate
     primary: deep purple
     accent: blue
-    
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Basic Operations: "1 - basic-operations/index.md"
+  - Tips and Tricks: "2 - tips-and-tricks/index.md"
+  - Zettelkasten Method:
+    - Introduction: "3 - zettelkasten/index.md"
+    - Practical Use: "3 - zettelkasten/practical-use.md"
+    - Setup Guide - Part 1: "3 - zettelkasten/setup-part1.md"
+    - Setup Guide - Part 2: "3 - zettelkasten/setup-part2.md"
+    - Workflow Examples: "3 - zettelkasten/workflow.md"
+  - Troubleshooting: "4 - troubleshooting/index.md"
+  - Glossary: "5 - glossary/index.md"
