@@ -15,8 +15,8 @@
         <link rel="next" href="../5%20-%20glossary/">
       
       
-      <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.7">
+      <link rel="icon" href="../asset/favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.4">
     
     
       
@@ -86,8 +86,7 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href=".." title="Obsidian Documentation" class="md-header__button md-logo" aria-label="Obsidian Documentation" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../asset/logo.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -301,8 +300,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href=".." title="Obsidian Documentation" class="md-nav__button md-logo" aria-label="Obsidian Documentation" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../asset/logo.png" alt="logo">
 
     </a>
     Obsidian Documentation
@@ -658,10 +656,10 @@
 
 
 <h1 id="troubleshooting">Troubleshooting</h1>
-<blockquote>
-<p>[!WARNING]
-Before making any major changes to your vault, consider creating a backup of your files to prevent data loss.</p>
-</blockquote>
+<details class="warning" open="open">
+<summary>Warning</summary>
+<p>Before making any major changes to your vault, consider creating a backup of your files to prevent data loss.</p>
+</details>
 <h2 id="common-issues-solutions">Common Issues &amp; Solutions</h2>
 <table>
 <thead>
@@ -694,42 +692,66 @@ Before making any major changes to your vault, consider creating a backup of you
 </tbody>
 </table>
 <h2 id="advanced-troubleshooting">Advanced Troubleshooting</h2>
-<blockquote>
-<p>[!TIP]
-For persistent issues, try these additional steps:</p>
-</blockquote>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>For persistent issues, try these additional steps:</p>
 <ol>
-<li><strong>Clear Obsidian cache</strong></li>
-<li>Close Obsidian</li>
-<li>Navigate to your vault folder</li>
-<li>Delete the <code>.obsidian/cache</code> folder</li>
+<li>
+<p><strong>Clear Obsidian cache</strong></p>
+<ul>
+<li>
+<p>Close Obsidian</p>
+</li>
+<li>
+<p>Navigate to your vault folder</p>
+</li>
+<li>
+<p>Delete the <code>.obsidian/cache</code> folder</p>
+</li>
 <li>
 <p>Restart Obsidian</p>
 </li>
+</ul>
+</li>
 <li>
 <p><strong>Check for plugin conflicts</strong></p>
+<ul>
+<li>
+<p>Disable community plugins and see if the issue persists</p>
 </li>
-<li>Disable community plugins and see if the issue persists</li>
 <li>
 <p>Re-enable plugins one by one to identify the problematic one</p>
 </li>
+</ul>
+</li>
 <li>
 <p><strong>Verify file permissions</strong></p>
+<ul>
+<li>
+<p>Ensure your user account has full read/write access to the vault folder</p>
 </li>
-<li>Ensure your user account has full read/write access to the vault folder</li>
 <li>
 <p>Check if any files are locked by other applications</p>
 </li>
+</ul>
+</li>
 <li>
 <p><strong>Update Obsidian</strong></p>
+<ul>
+<li>
+<p>Make sure you're using the latest version of Obsidian</p>
 </li>
-<li>Make sure you're using the latest version of Obsidian</li>
-<li>Some issues may be resolved in newer releases</li>
+<li>
+<p>Some issues may be resolved in newer releases</p>
+</li>
+</ul>
+</li>
 </ol>
-<blockquote>
-<p>[!NOTE]
-If you're experiencing issues with specific plugins, check the plugin's GitHub repository for known issues or contact the developer.</p>
-</blockquote>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If you're experiencing issues with specific plugins, check the plugin's GitHub repository for known issues or contact the developer.</p>
+</div>
 <h2 id="getting-help">Getting Help</h2>
 <p>If you're still experiencing problems after trying these solutions:</p>
 <ul>
@@ -737,10 +759,10 @@ If you're experiencing issues with specific plugins, check the plugin's GitHub r
 <li>Join the <a href="https://discord.gg/obsidianmd">Obsidian Discord</a></li>
 <li>Search or post in the <a href="https://www.reddit.com/r/ObsidianMD/">Obsidian Subreddit</a></li>
 </ul>
-<blockquote>
-<p>[!SUCCESS]
-Remember to provide details about your operating system, Obsidian version, and installed plugins when seeking help from the community.</p>
-</blockquote>
+<div class="admonition success">
+<p class="admonition-title">Ready for More</p>
+<p>Remember to provide details about your operating system, Obsidian version, and installed plugins when seeking help from the community.</p>
+</div>
 
 
 
@@ -792,7 +814,7 @@ Remember to provide details about your operating system, Obsidian version, and i
     <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs", "navigation.sections", "toc.integrate", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      <script src="../assets/javascripts/bundle.f1b6f286.min.js"></script>
       
     
   </body>
