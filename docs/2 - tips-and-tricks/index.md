@@ -41,15 +41,8 @@ Obsidian uses Markdown for formatting your notes. Here's a quick reference:
     ```
 
     The result will look like this:
-
-> [!tip]
-> This is a **tip**
-
-> [!warning]
-> This is a *warning*
-
-> [!note]
-> This is a Note
+    
+    ![callout](../asset/callout.png)
 
 !!! tip "Available Callout Types"
     Obsidian supports many callout types including: note, tip, warning, danger, example, quote, and more. Each has its own color and icon.
