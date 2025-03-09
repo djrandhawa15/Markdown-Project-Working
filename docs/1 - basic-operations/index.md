@@ -150,6 +150,6 @@ You can manually link to images stored in your Assets folder:
 ## Conclusion
 
 !!! success "Ready for More"
-    You've now learned the basic operations in Obsidian! With these fundamentals, you're ready to move on to more advanced techniques.
+    With these fundamentals you have just learned, you're ready to move on to more advanced techniques.
 
-In the next section, we'll introduce you to the Zettelkasten method, which will transform how you manage knowledge and essentially help you build a "second brain" in Obsidian. This powerful approach will help you connect ideas and deepen your understanding of any subject.
+In the next section, we'll introduce you to the tips and tricks to utilizing obsidian's full potential.
