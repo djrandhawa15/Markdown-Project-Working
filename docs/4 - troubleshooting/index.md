@@ -1,7 +1,7 @@
 # Troubleshooting
 
-> [!WARNING]
-> Before making any major changes to your vault, consider creating a backup of your files to prevent data loss.
+???+ warning "Warning"
+    Before making any major changes to your vault, consider creating a backup of your files to prevent data loss.
 
 ## Common Issues & Solutions
 
@@ -15,29 +15,39 @@
 
 ## Advanced Troubleshooting
 
-> [!TIP]
-> For persistent issues, try these additional steps:
+!!! tip "Tip"
+    For persistent issues, try these additional steps:
 
-1. **Clear Obsidian cache**
-   - Close Obsidian
-   - Navigate to your vault folder
-   - Delete the `.obsidian/cache` folder
-   - Restart Obsidian
+    1. **Clear Obsidian cache**
+    
+        - Close Obsidian
+    
+        - Navigate to your vault folder
 
-2. **Check for plugin conflicts**
-   - Disable community plugins and see if the issue persists
-   - Re-enable plugins one by one to identify the problematic one
+        - Delete the `.obsidian/cache` folder
 
-3. **Verify file permissions**
-   - Ensure your user account has full read/write access to the vault folder
-   - Check if any files are locked by other applications
+        - Restart Obsidian
+    2. **Check for plugin conflicts**
+    
+        - Disable community plugins and see if the issue persists
 
-4. **Update Obsidian**
-   - Make sure you're using the latest version of Obsidian
-   - Some issues may be resolved in newer releases
+        - Re-enable plugins one by one to identify the problematic one
+    
+    3. **Verify file permissions**
 
-> [!NOTE]
-> If you're experiencing issues with specific plugins, check the plugin's GitHub repository for known issues or contact the developer.
+        - Ensure your user account has full read/write access to the vault folder
+
+        - Check if any files are locked by other applications
+
+    4. **Update Obsidian**
+
+         - Make sure you're using the latest version of Obsidian
+
+         - Some issues may be resolved in newer releases
+
+!!! note "Note"
+    If you're experiencing issues with specific plugins, check the plugin's GitHub repository for known issues or contact the developer.
+
 
 ## Getting Help
 
@@ -47,5 +57,5 @@ If you're still experiencing problems after trying these solutions:
 - Join the [Obsidian Discord](https://discord.gg/obsidianmd)
 - Search or post in the [Obsidian Subreddit](https://www.reddit.com/r/ObsidianMD/)
 
-> [!SUCCESS]
-> Remember to provide details about your operating system, Obsidian version, and installed plugins when seeking help from the community.
+!!! success "Ready for More"
+     Remember to provide details about your operating system, Obsidian version, and installed plugins when seeking help from the community.

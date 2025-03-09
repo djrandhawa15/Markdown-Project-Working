@@ -6,14 +6,14 @@ Now let's explore how to implement the Zettelkasten method in Obsidian to create
 
 
 !!! info "What is the Zettelkasten Method?"
-    Inspired by "How to Take Smart Notes" by Sönke Ahrens, the Zettelkasten is a slip-box system that clusters ideas and connects them to create new links as you continue learning.
+    Inspired by "How to Take Smart Notes" by Sönke Ahrens, the Zettelkasten is a slip-box system that clusters ideas and links them to create a new synthesis of ideas.
 
 !!! success "Three Major Benefits"
      **1. Great for learning**
 
       - Encourages slow, deliberate learning that boosts memory
       - Provides instant feedback on your understanding
-     - Gives freedom to connect ideas
+      - Gives freedom to connect ideas
     
      **2. Stores and mixes ideas**
     

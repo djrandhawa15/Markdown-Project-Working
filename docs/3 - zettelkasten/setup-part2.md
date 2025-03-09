@@ -127,7 +127,7 @@ Now you can press Ctrl+R (or Cmd+R) to insert your template into any note!
 
 ## Adding Essential Community Plugins
 
-Looks like a pen writing note (Blue)
+
 !!! note "Note"
     This section is optional but recommended for enhancing your Zettelkasten experience.
 
@@ -142,7 +142,7 @@ Looks like a pen writing note (Blue)
 
 ## Testing Your New Zettelkasten
 
-Looks like a checkmark and bright green
+
 !!! success "Success!"
     Congratulations! You've set up your Zettelkasten system. Let's test it out.
 
@@ -156,7 +156,6 @@ Looks like a checkmark and bright green
 
 ## **In Conclusion**
 
-Looks like a checkmark and bright green
 !!! success "Success"
     * You've successfully created your second brain! You now have a powerful system for organizing and connecting your thoughts.
 
